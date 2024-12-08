@@ -12,3 +12,5 @@ The **Fun Fact Generator** is a React-based web application that displays intere
 - **CSS**: For styling the components.
 - **JavaScript**: For implementing the logic.
 - **API **: Useless Fact
+
+click here to see https://superb-dieffenbachia-62881c.netlify.app/
